@@ -1,4 +1,4 @@
-# desafio-Dio-POO-Botcamp-GFT
+# desafio-Dio-POO-Bootcamp-GFT
 Abstraindo Bootcamp usando POO
 
 Desmistificando a Programação Orientada a Objetos (POO) com Java e praticando esse conceito fundamental nesse desafio. 
